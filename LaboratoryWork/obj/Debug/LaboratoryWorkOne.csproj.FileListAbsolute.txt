@@ -1,0 +1,7 @@
+G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWork\obj\Debug\LaboratoryWorkOne.csproj.CoreCompileInputs.cache
+G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWork\obj\Debug\LaboratoryWorkOne.csprojAssemblyReference.cache
+G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWork\bin\Debug\LaboratoryWorkOne.exe.config
+G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWork\bin\Debug\LaboratoryWorkOne.exe
+G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWork\bin\Debug\LaboratoryWorkOne.pdb
+G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWork\obj\Debug\LaboratoryWorkOne.exe
+G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWork\obj\Debug\LaboratoryWorkOne.pdb

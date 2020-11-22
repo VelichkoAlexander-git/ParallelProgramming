@@ -1,0 +1,7 @@
+G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWorkThree\bin\Debug\LaboratoryWorkThree.exe.config
+G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWorkThree\bin\Debug\LaboratoryWorkThree.exe
+G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWorkThree\bin\Debug\LaboratoryWorkThree.pdb
+G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWorkThree\obj\Debug\LaboratoryWorkThree.csprojAssemblyReference.cache
+G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWorkThree\obj\Debug\LaboratoryWorkThree.csproj.CoreCompileInputs.cache
+G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWorkThree\obj\Debug\LaboratoryWorkThree.exe
+G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWorkThree\obj\Debug\LaboratoryWorkThree.pdb
