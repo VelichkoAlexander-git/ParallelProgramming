@@ -5,3 +5,10 @@ G:\Study\Конспекты\4 курс\1 семестр\Технологии п�
 G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWorkThree\obj\Debug\LaboratoryWorkThree.csproj.CoreCompileInputs.cache
 G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWorkThree\obj\Debug\LaboratoryWorkThree.exe
 G:\Study\Конспекты\4 курс\1 семестр\Технологии парал. программирования (доц. Надькин Л.Ю.)\ParallelProgramming\LaboratoryWorkThree\obj\Debug\LaboratoryWorkThree.pdb
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkThree\bin\Debug\LaboratoryWorkThree.exe.config
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkThree\bin\Debug\LaboratoryWorkThree.exe
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkThree\bin\Debug\LaboratoryWorkThree.pdb
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkThree\obj\Debug\LaboratoryWorkThree.csprojAssemblyReference.cache
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkThree\obj\Debug\LaboratoryWorkThree.csproj.CoreCompileInputs.cache
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkThree\obj\Debug\LaboratoryWorkThree.exe
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkThree\obj\Debug\LaboratoryWorkThree.pdb
