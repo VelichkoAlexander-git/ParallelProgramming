@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LaboratoryWorkFive
 {
-    // Реализуйте последовательный алгоритм расчета состояний модели.
+
     public class GameLife {
         private int Heigth;
         private int Width;
@@ -19,6 +19,7 @@ namespace LaboratoryWorkFive
             GenerateField();
         }
 
+        // Реализуйте последовательный алгоритм расчета состояний модели.
         public bool[,] Grow() {
             for (int i = 0; i < Heigth; i++) {
                 for (int j = 0; j < Width; j++) {
@@ -43,6 +44,8 @@ namespace LaboratoryWorkFive
 
             return cells;
         }
+
+        // Реализуйте параллельные алгоритмы расчета состояний модели. Для распараллеливания используйте метод Parallel.For.
 
         public bool[,] GrowParallel()
         {

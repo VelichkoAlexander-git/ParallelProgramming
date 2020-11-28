@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace LaboratoryWorkThree
 {
+    /*
+    * Реализуйте доступ «читателей» и «писателей» к буферу с применением средств синхронизации: семафоры
+    */
     class TaskFour
     {
         public int R { get; protected set; }
