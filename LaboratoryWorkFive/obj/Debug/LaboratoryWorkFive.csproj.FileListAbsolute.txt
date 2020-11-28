@@ -1,0 +1,10 @@
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkFive\bin\Debug\LaboratoryWorkFive.exe.config
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkFive\bin\Debug\LaboratoryWorkFive.exe
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkFive\bin\Debug\LaboratoryWorkFive.pdb
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkFive\obj\Debug\LaboratoryWorkFive.csprojAssemblyReference.cache
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkFive\obj\Debug\LaboratoryWorkFive.Form1.resources
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkFive\obj\Debug\LaboratoryWorkFive.Properties.Resources.resources
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkFive\obj\Debug\LaboratoryWorkFive.csproj.GenerateResource.cache
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkFive\obj\Debug\LaboratoryWorkFive.csproj.CoreCompileInputs.cache
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkFive\obj\Debug\LaboratoryWorkFive.exe
+C:\Users\Kerman\Desktop\ParallelProgramming\LaboratoryWorkFive\obj\Debug\LaboratoryWorkFive.pdb
